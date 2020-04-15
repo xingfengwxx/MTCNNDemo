@@ -1,0 +1,2 @@
+rootProject.name='MTCNNDemo'
+include ':app'
